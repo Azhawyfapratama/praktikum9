@@ -4,13 +4,13 @@
 
 **Ini adalah flowchart dari program yang akan saya buat.**
 
-![IMG 1](Screenshot/1.png)
+![IMG 1](screenshot/1.png)
 
 **Dibawah ini adalah code saya**
 
-![IMG 2](Screenshot/2.png)
+![IMG 2](screenshot/2.png)
 
 **Berikut adalah output dari code di atas.**
 **Dengan input data diri dan nilai-nilai.**
 
-![IMG 3](Screenshot/3.png)
+![IMG 3](screenshot/3.png)
